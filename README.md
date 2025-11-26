@@ -70,7 +70,7 @@ If you like this project, give it a **⭐ star** on GitHub!
 
 ## 📧 Contact
 
-Created by **Ali**  
+Created by **Fahad Muneer**  
 Feel free to reach out for feedback or collaboration!
 
 
