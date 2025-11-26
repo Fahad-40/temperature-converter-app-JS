@@ -27,6 +27,50 @@ Convert values instantly between **Celsius**, **Fahrenheit**, and **Kelvin** wit
 │── style.css
 │── script.js
 └── README.md
+```
+---
+
+## 💡 How It Works
+
+- Type any value in **Celsius**, **Fahrenheit**, or **Kelvin**
+- Remaining fields update automatically
+- Conversions use standard temperature formulas
+- Inputs include unit symbols using CSS (`data-unit`)
 
 ---
+
+## 📜 Formulas Used
+
+- **Celsius → Fahrenheit:**  
+  `(C × 9/5) + 32`
+
+- **Celsius → Kelvin:**  
+  `C + 273.15`
+
+- **Fahrenheit → Celsius:**  
+  `(F - 32) × 5/9`
+
+- **Kelvin → Celsius:**  
+  `K - 273.15`
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome!  
+If you have ideas to improve UI or features, feel free to contribute.
+
+---
+
+## ⭐ Show Support
+
+If you like this project, give it a **⭐ star** on GitHub!
+
+---
+
+## 📧 Contact
+
+Created by **Ali**  
+Feel free to reach out for feedback or collaboration!
+
 
