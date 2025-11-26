@@ -21,7 +21,18 @@ Convert values instantly between **Celsius**, **Fahrenheit**, and **Kelvin** wit
 - **CSS3**
 - **JavaScript (Vanilla JS)**
 
+## 📂 Project Structure
+
+/
+│── index.html
+│── style.css
+│── script.js
+└── README.md
+
 ---
+
+
+
 
 
 > Add your project screenshot here  
