@@ -22,8 +22,7 @@ Convert values instantly between **Celsius**, **Fahrenheit**, and **Kelvin** wit
 - **JavaScript (Vanilla JS)**
 
 ## 📂 Project Structure
-
-/
+```
 │── index.html
 │── style.css
 │── script.js
@@ -31,9 +30,3 @@ Convert values instantly between **Celsius**, **Fahrenheit**, and **Kelvin** wit
 
 ---
 
-
-
-
-
-> Add your project screenshot here  
-(Example)  
