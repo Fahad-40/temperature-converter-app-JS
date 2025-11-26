@@ -15,7 +15,13 @@ Convert values instantly between **Celsius**, **Fahrenheit**, and **Kelvin** wit
 
 ---
 
+## 🛠️ Technologies Used
 
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla JS)**
+
+---
 
 ## 📂 Project Structure
 ```
